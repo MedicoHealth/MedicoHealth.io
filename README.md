@@ -1,5 +1,5 @@
 # MedicoHealth.io
-The biggest doctor-patient environment based on blockchain
+The biggest doctor-patient environment based on blockchain. Medicohealth Platform will allow fully anonymous, safe, and efficient communication with the world’s leading physicians 
 
 - Website: https://medicohealth.io/
 
@@ -11,7 +11,7 @@ The biggest doctor-patient environment based on blockchain
 
 - Linkedin: https://www.linkedin.com/company/medicohealth/
 
-- Teelgram: https://t.me/MedicoHealthOfficial
+- Telegram: https://t.me/MedicoHealthOfficial
 
 - Facebook: https://www.facebook.com/MedicoHealth.io/
 
@@ -25,4 +25,20 @@ The biggest doctor-patient environment based on blockchain
 
 - Company SI: https://www.bizi.si/MEDICOHEALTH-D-O-O/
 - Company AG: https://zg.chregister.ch/cr-portal/auszug/auszug.xhtml?uid=CHE-169.601.546&amt=ZG&loeschung=
+
+# ICO reviews
+
+- FXempire: https://www.fxempire.com/crypto/ico/medicohealth
+
+- TrackICO: https://www.trackico.io/ico/medicohealth/
+
+- IcoBench: https://icobench.com/ico/medicohealth
+
+- IcoBreaker: https://www.icobreaker.com/ico_listing/medicohealth/
+
+- FoundIco: https://foundico.com/ico/medicohealth.html
+
+- CoinLauncher: https://coinlauncher.io/medicohealth-ico-0
+
+
 
